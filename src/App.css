@@ -38,7 +38,7 @@ li {
 
 li::marker {
   color: #61dafb;
-  font-size: 23px;
+  font-size: 1.5rem;
 }
 
 main {
