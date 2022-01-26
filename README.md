@@ -15,5 +15,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Project
-- Modify the [Start up](https://scrimba.com/learn/learnreact/navbar-styling-co6b241c280719be40956bba1) project
-- Modify the [Finished](https://scrimba.com/scrim/co884451eadd13a1d506ba80d)
+- Modify the [Start up](https://scrimba.com/learn/learnreact/navbar-styling-co6b241c280719be40956bba1) project.
+- Modify the [Finished](https://scrimba.com/scrim/co884451eadd13a1d506ba80d) project.
